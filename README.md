@@ -1,1 +1,5 @@
-# 2.Simple-Restaurant-Website-Login-and-Signup-Authentication
+# Technologies Used
+
+1. HTML (Hyper Text Markup Language)
+2. CSS (Cascading Style Sheets)
+3. JS (JavaScript)
